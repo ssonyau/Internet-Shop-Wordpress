@@ -14,4 +14,4 @@
 ## Встановлення шаблона 
 
 #### 1) Необхідно підібрати та встановити тему для магазину. Для цього на вкладці "Теми" потрібно вибрати "Додати теми" та ввести в пошуковий рядок "WooCommerce".
-![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-08%20174907.png)
+![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-08%20181724.png)
