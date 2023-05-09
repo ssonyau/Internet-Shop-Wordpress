@@ -28,4 +28,7 @@
 ![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-09%20164142.png)
 
 #### 2) Нам потрібен плагін, який називається Starter Templates – Elementor , за його допомогою ми зможемо застосувати до нашої теми вже готовий, гарний дизайн.  Натискаємо кнопочку "Встановити" та Активуємо. 
+![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-09%20164856.png)
+
+#### 3) Після цього ми можемо встановити шаблон нашого майбутнього сайту. Для цього йдемо в розділ Вигляд, і знаходимо в ньому пункт Starter Templates. 
 ![]()
