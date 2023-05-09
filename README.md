@@ -42,4 +42,6 @@
 ![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-09%20171924.png)
 
 #### 4) Щоб почати змінювати дизайн сайту під свої потреби, потрібно його іпортувати. Після чого заходимо на сайт, і бачимо, що все виглядає чудово і як потрібно.
-![]()
+![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-09%20173319.png)
+
+
