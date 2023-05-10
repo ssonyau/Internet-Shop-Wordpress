@@ -75,4 +75,7 @@
 ![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-10%20175449.png)
 
 #### 4) Натискаємо на папку.
+![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-10%20180328.png)
+
+#### 5) У нас відкривається бібліотека різних шаблонів. У пошуковому рядку вводимо "About" та вибираємо потрібний нам шаблон.
 ![]()
