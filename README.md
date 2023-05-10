@@ -41,4 +41,7 @@
 
 #### 2) Вибираємо вкладку "Меню".
 
+![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-10%20141409.png) 
+
+#### 3) Натискаємо "Переглянути всі розміщення".
 ![]() 
