@@ -72,3 +72,7 @@
 ![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-10%20174422.png)
 
 #### 3) Після цього у мене відкривається плагін, який потрібний нам для повноцінного редагування сторінки.
+![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-10%20175449.png)
+
+#### 4) Натискаємо на папку.
+![]()
