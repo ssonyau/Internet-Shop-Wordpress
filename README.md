@@ -83,4 +83,7 @@
 ![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-10%20181235.png)
 
 #### 7) Щоб вставити шаблон, нам потрібно зареєструватися в Elementor. Натискаємо на кнопку "Почнемо".
+![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-10%20181828.png)
+
+#### 8) Тут на сайті Вам потрібно буде пройти простий процес реєстрації, після чого ви авторизуєте свій обліковий запис.
 ![]()
