@@ -92,4 +92,7 @@
 ![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-10%20183700.png)
 
 #### 10) На цьому етапі ми отримуємо повноцінну сторінку, яку можемо редагувати під себе.
+![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-10%20184904.png)
+
+#### 11) Після цього натискаємо на кнопочку оновити і робимо весь той же процес зі сторінками "Головна" та "Контакти".
 ![]()
