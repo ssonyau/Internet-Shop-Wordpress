@@ -23,6 +23,9 @@
 ![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-10%20130408.png)
 
 #### 4) Після встановлення Активуєм тему.
+![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-10%20131338.png)
+
+## Додавання нових сторінок
+
+#### 1) Зараз у нас немає жодної сторінки. Тому переходимо у вкладку Сторінки і натискаємо на кнопку "Додати нову".
 ![]()
-
-
