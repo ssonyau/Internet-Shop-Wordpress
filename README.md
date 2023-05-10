@@ -44,4 +44,8 @@
 ![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-10%20141409.png) 
 
 #### 3) Натискаємо "Переглянути всі розміщення".
+![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-10%20142306.png) 
+
+#### 4) Далі натискаємо "Рудагувати меню".
 ![]() 
+
