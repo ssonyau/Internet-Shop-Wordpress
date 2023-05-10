@@ -53,4 +53,6 @@
 ![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-10%20143533.png)
 
 #### 6) Далі нам потрібно редагувати назви наших посилань. Замість "Home"-"Головна", "Contact"-"Контакти", "About"-"Про нас". Та настискаємо кнопку "Опублікувати".
-![]()
+![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-10%20144816.png)
+
+
