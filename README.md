@@ -40,7 +40,6 @@
 ![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-10%20141338.png) 
 
 #### 2) Вибираємо вкладку "Меню".
-
 ![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-10%20141409.png) 
 
 #### 3) Натискаємо "Переглянути всі розміщення".
@@ -81,4 +80,7 @@
 ![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-10%20180750.png)
 
 #### 6) Відкриваємо шаблон, та натискаємо на кнопку "Вставити".
+![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-10%20181235.png)
+
+#### 7) Щоб вставити шаблон, нам потрібно зареєструватися в Elementor. Натискаємо на кнопку "Почнемо".
 ![]()
