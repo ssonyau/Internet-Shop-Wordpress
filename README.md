@@ -17,9 +17,9 @@
 ![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-08%20181724.png)
 
 #### 2) Я ж використовуватиму тему, яку завантажила на окремому сайті https://woostify.com/ , ця тема називається Woostify.
-![]()
+![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-10%20125739.png)
 
-#### 3) Після цього переходимо на сайт і бачимо, як у нас помінявся дизайн.
-![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-09%20163618.png)
+#### 3) Після я переходжу до Вигляду, Теми і завантажую свій zip.архів з темою, яку скачала.
+![]()
 
 
