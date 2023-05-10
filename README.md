@@ -20,6 +20,9 @@
 ![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-10%20125739.png)
 
 #### 3) Після я переходжу до Вигляду, Теми і завантажую свій zip.архів з темою, яку скачала.
+![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-10%20130408.png)
+
+#### 4) Після встановлення Активуєм тему.
 ![]()
 
 
