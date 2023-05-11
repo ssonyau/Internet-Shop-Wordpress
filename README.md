@@ -114,4 +114,7 @@
 ![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-11%20125257.png)
 
 #### 5) Завантажуємо та натискаємо накнопку "Встановити зображення товару".
+![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-11%20130505.png)
+
+#### 6) Тепер нам слід додати категорію товару. У нас вона називатиметься "Вінки". І після цього натискаємо кнопку "Додати категорію".
 ![]()
