@@ -148,4 +148,7 @@
 ![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-11%20154249.png)
 
 #### 2) Після чого ми переходимо в панель управління сайту і вибираємо пункт меню.
+![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-11%20154757.png)
+
+#### 3) Далі ми обираємо "", натискаємо на кнопку "Додати елемент", і додаємо "Всі товари".
 ![]()
