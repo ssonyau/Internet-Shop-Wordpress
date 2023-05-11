@@ -111,4 +111,7 @@
 ![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-11%20124936.png)
 
 #### 4) Далі ми натискаємо на кнопку "Виберіть файли" та завантажуємо зображення з нашого комп'ютера, яке ми раніше завантажили.
+![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-11%20125257.png)
+
+#### 5) Завантажуємо та натискаємо накнопку "Встановити зображення товару".
 ![]()
