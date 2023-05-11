@@ -162,4 +162,4 @@
 ![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-11%20170513.png)
 
 #### 3) Після цього ми можемо перейти на наш сайт і побачити, що тепер наша бічна панель має досить цікавий вигляд.
-![]()
+![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-11%20171913.png)
