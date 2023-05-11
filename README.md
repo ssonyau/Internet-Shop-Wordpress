@@ -105,4 +105,7 @@
 ![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-11%20121803.png)
 
 #### 2) Ми будемо продавати товари Handmade, тому в якості назви для товару я вкажу "Вінок зі стрічкою". В описі вписуємо все те саме.
+![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-11%20124004.png)
+
+#### 3) Тепер нам потрібно додати головне зображення товару. Для цього натискаємо кнопку "Встановити зображення товару".
 ![]()
