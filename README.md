@@ -137,4 +137,7 @@
 ![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-11%20143841.png)
 
 #### 6) Тепер все те саме ми робимо та таким самим чином додаєм інші товари.
+![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-11%20145427.png)
+
+#### 7) Таким чином у нас вийшло додати всі необхідні для нас товари.
 ![]()
