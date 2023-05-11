@@ -185,4 +185,7 @@
 ![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-11%20225046.png)
 
 #### 7) Тут нам потрібно вказати країни, в яких ми вказали раніше доставку. І після натискаємо на кнопку "Додати спосіб доставки".
+![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-11%20230321.png)
+
+#### 8) Додаємо способи доставки. У мене ж це "Самовивіз" і "Безкоштовна доставка".
 ![]()
