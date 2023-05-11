@@ -134,4 +134,7 @@
 ![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-11%20143349.png)
 
 #### 5) Після публікації товару, ми можемо перейти на його сторінку. Тут же на сторінці буде представлена вся необхідна інформація.
+![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-11%20143841.png)
+
+#### 6) Тепер все те саме ми робимо та таким самим чином додаєм інші товари.
 ![]()
