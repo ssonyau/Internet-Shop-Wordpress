@@ -211,7 +211,8 @@
 ![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-14%20205739.png)
 
 #### 2) Після встановлення натискаємо на кнопку "Активувати".
+![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-14%20213416.png)
+
+#### 3) Тепер на сторінці "Платежі" ми можемо помітити, що у нас з'явилися додаткові кнопки "Fondy" і "Fondy Bank", які ми можемо активувати. Нам достатньо активувати тільки "Fondy".
 ![]()
-
-
 
