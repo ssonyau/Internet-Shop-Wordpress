@@ -45,7 +45,7 @@
 #### 3) Натискаємо "Переглянути всі розміщення".
 ![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-10%20142306.png) 
 
-#### 4) Далі натискаємо "Рудагувати меню".
+#### 4) Далі натискаємо "Редагувати меню".
 ![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-10%20142903.png)
 
 #### 5) Вказуєм назву меню "Header Menu" и додаєм нові єлементи (вони ж наші сторінки, які в нас вже є).
