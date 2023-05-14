@@ -222,5 +222,5 @@
 ![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-14%20231718.png)
 
 #### 2) Сторінка "Контакти".
-![]()
+![](https://github.com/ssonyau/Internet-Shop-Wordpress/blob/main/Screenshot%202023-05-14%20231829.png)
 
